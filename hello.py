@@ -1,5 +1,6 @@
 #ale predsa spravim zmenu
 nebran mi kamarat
+#a co ked budem?
 
 '''
 taky kodik ty pylint prisny
