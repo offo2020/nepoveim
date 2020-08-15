@@ -1,3 +1,5 @@
 nieco
 dalsie
 posledny riadok
+
+a just nie, az toto je posledny, ten ma teraz velmi zle meno
