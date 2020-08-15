@@ -1,6 +1,7 @@
 #ale predsa spravim zmenu
 nebran mi kamarat
-#a co ked budem?
+
+zmeny pre vetvu, aj som zmazal 'co ked budem'
 
 '''
 taky kodik ty pylint prisny
